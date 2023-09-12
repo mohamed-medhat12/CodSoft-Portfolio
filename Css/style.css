@@ -43,7 +43,7 @@ body {
 }
 
 #menu-icon {
-    font-size: 57.6px;
+    font-size: 36px;
     color: white;
     cursor: pointer;
     display: none;
@@ -606,7 +606,7 @@ span {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: Irem e 48px e;
+    margin: 1rem 0 15px 0;
 }
 
 .socials li {
@@ -664,13 +664,13 @@ span {
     .card {
         margin-right: auto;
         margin-left: auto;
-        height: 512px;
-        width: 432px;
+        height: 300px;
+        width: 280px;
 
     }
 
     .header {
-        padding: 32px 4%;
+        padding: 15px 4%;
     }
 
     section {
@@ -682,7 +682,7 @@ span {
     }
 
     .footer {
-        padding: 32px 4%;
+        padding: 10px 4%;
     }
 
     .soft-skills {
